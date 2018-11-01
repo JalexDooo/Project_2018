@@ -1,0 +1,10 @@
+opencv-python
+dlib
+face_recognition
+jupter
+ipython
+matplotlib
+numpy
+Pillow
+tqdm
+pandas
